@@ -92,7 +92,7 @@ def get_reply_markup(query):
     buttons = [
         [
             InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🗂 Files', url='t.me/MoviesFlixers_DL')
+            InlineKeyboardButton('🗂 Files', url='t.me/KING_OF_THE_CARTOONS_CHANNEL')
         ]
         ]
     return InlineKeyboardMarkup(buttons)
